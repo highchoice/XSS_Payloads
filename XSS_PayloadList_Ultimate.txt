@@ -1,3 +1,5 @@
+‘>alert(154)</script><script/154=’;;;;;;;
+'>alert(154)</script><script/154=';;;;;;;
 <a onclick="location.href='\&fjlig;avascript:alert(1)'">go</a>
 <a onclick="location.href='\&fjlig;javascript:alert(1)'">go</a>
 <A HRef=//14.rs AutoFocus %26%2362 OnFocus%0C=import(href)>
